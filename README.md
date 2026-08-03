@@ -1,60 +1,68 @@
-<h1 align="center">Hi 👋, I'm Mantasha Rafiq</h1>
-<h3 align="center">B.Tech CSE Student | AI/ML & GenAI Enthusiast | Building Intelligent, Scalable Systems</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1F3864&center=true&vCenter=true&width=600&lines=Building+GenAI-powered+SaaS+products;Exploring+Deep+Learning+%26+Computer+Vision;Turning+raw+DNA+into+resistance+predictions;Always+learning%2C+always+building" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E8,100:C9A7EB&height=220&section=header&text=Mantasha%20Rafiq&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=B.Tech%20CSE%20%7C%20AI%2FML%20%26%20GenAI%20Builder&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itimantasha&label=Profile%20Views&color=1F3864&style=flat" alt="profile views" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2800&pause=900&color=D6336C&center=true&vCenter=true&width=650&lines=%E2%9C%A8+Crafting+GenAI-powered+products;%F0%9F%A7%AC+Turning+DNA+into+predictions;%F0%9F%8C%B8+Learning%2C+building%2C+repeating;%F0%9F%92%AB+Welcome+to+my+profile%21" alt="Typing SVG" />
 
----
+<img src="https://komarev.com/ghpvc/?username=itimantasha&label=Profile%20Visitors&color=D6336C&style=for-the-badge" alt="profile views" />
 
-### 🚀 About Me
+</div>
 
-- 🎓 B.Tech Computer Science & Engineering (Batch 2027), Pranveer Singh Institute of Technology, Kanpur
-- 🧠 Focused on **AI/ML, GenAI, and full-stack development**
-- 🛠️ Currently building **ParaFlow AI** — an autonomous text orchestration SaaS platform
-- 🧬 Also worked on **Genora (BLT-CNN)** — a hybrid deep learning model for antibiotic resistance prediction from raw DNA sequences
-- 📜 Completed the **BCG GenAI Job Simulation** (Forage) and certifications in Agile, AI Automation, and Python
-- 💬 Ask me about: Python, CNNs, Transformers, RAG, NLP, FastAPI
+<br>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3c-b5c5-208bd8483d6e.gif" width="100%" height="4">
 
-### 🧰 Tech Stack
+### 🌸 About Me
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+<img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ce.gif">
 
----
+- 🎀 B.Tech CSE student (Batch 2027), PSIT Kanpur
+- 🪄 Passionate about **AI/ML, GenAI & full-stack magic**
+- 💻 Currently building **ParaFlow AI** — an autonomous text orchestration SaaS
+- 🧬 Also built **Genora (BLT-CNN)** — predicting antibiotic resistance from raw DNA
+- 📜 BCG GenAI Job Simulation (Forage) + certs in Agile, AI Automation & Python
+- 💌 Always up for a chat about Python, Transformers, RAG & NLP
 
-### 🌟 Featured Projects
+<br clear="right">
 
-<table>
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3c-b5c5-208bd8483d6e.gif" width="100%" height="4">
+
+### 🌷 Tech Stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-FFD6E8?style=for-the-badge&logo=python&logoColor=D6336C" />
+<img src="https://img.shields.io/badge/SQL-E8D6FF?style=for-the-badge&logo=postgresql&logoColor=6F42C1" />
+<img src="https://img.shields.io/badge/FastAPI-FFD6E8?style=for-the-badge&logo=fastapi&logoColor=D6336C" />
+<img src="https://img.shields.io/badge/Next.js-F3D6FF?style=for-the-badge&logo=next.js&logoColor=6F42C1" />
+<img src="https://img.shields.io/badge/React-FFE3EC?style=for-the-badge&logo=react&logoColor=D6336C" />
+<br>
+<img src="https://img.shields.io/badge/TensorFlow-FFD6E8?style=for-the-badge&logo=tensorflow&logoColor=D6336C" />
+<img src="https://img.shields.io/badge/Docker-E8D6FF?style=for-the-badge&logo=docker&logoColor=6F42C1" />
+<img src="https://img.shields.io/badge/Kubernetes-FFD6E8?style=for-the-badge&logo=kubernetes&logoColor=D6336C" />
+<img src="https://img.shields.io/badge/Redis-F3D6FF?style=for-the-badge&logo=redis&logoColor=6F42C1" />
+<img src="https://img.shields.io/badge/Git-FFE3EC?style=for-the-badge&logo=git&logoColor=D6336C" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3c-b5c5-208bd8483d6e.gif" width="100%" height="4">
+
+### 💖 Featured Projects
+
+<table align="center">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 **🔮 ParaFlow AI**
-End-to-end IntelliScribe text orchestration system for AI-powered writing, rewriting, summarization, translation & grammar correction. Microservices architecture with 15+ REST APIs, JWT auth, Redis caching, Docker + Kubernetes deployment.
+End-to-end IntelliScribe text orchestration system for AI writing, rewriting, summarization, translation & grammar correction. 15+ REST APIs, JWT auth, Redis caching, Docker + Kubernetes deployment. ✨
 
 `FastAPI` `Next.js` `React` `PostgreSQL` `OpenAI API`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 **🧬 Genora: BLT-CNN**
-Hybrid deep learning model predicting antibiotic resistance directly from raw pathogen DNA — fuses entropy-guided patching, 1D CNN, and a Transformer encoder. **93.34% accuracy** · **98.55% AUC** on the CARD database.
+Hybrid deep learning model predicting antibiotic resistance straight from raw pathogen DNA — entropy-guided patching + CNN + Transformer. **93.34% accuracy** · **98.55% AUC** 🌸
 
 `Python` `TensorFlow` `BioPython` `Transformers`
 
@@ -62,30 +70,38 @@ Hybrid deep learning model predicting antibiotic resistance directly from raw pa
 </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3c-b5c5-208bd8483d6e.gif" width="100%" height="4">
 
-### 📊 GitHub Stats
+### 🦋 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=itimantasha&show_icons=true&theme=default&hide_border=true&title_color=1F3864&icon_color=1F3864&text_color=333333" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=itimantasha&hide_border=true&background=FFFFFF&stroke=1F3864&ring=1F3864&fire=1F3864&currStreakLabel=1F3864" />
-</p>
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=itimantasha&show_icons=true&hide_border=true&title_color=D6336C&icon_color=D6336C&text_color=6F42C1&bg_color=00000000" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=itimantasha&hide_border=true&background=00000000&stroke=D6336C&ring=D6336C&fire=D6336C&currStreakLabel=6F42C1" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itimantasha&layout=compact&hide_border=true&theme=default&title_color=1F3864&text_color=333333" />
-</p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itimantasha&layout=compact&hide_border=true&title_color=D6336C&text_color=6F42C1&bg_color=00000000" />
+</div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3c-b5c5-208bd8483d6e.gif" width="100%" height="4">
 
-### 📫 Connect With Me
+### 💌 Let's Connect
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/mantasha-rafiq-61bba0246" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:itimantasha@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center"><i>"The bacteria are evolving. So should our tools." 🧬</i></p>
+<a href="https://www.linkedin.com/in/mantasha-rafiq-61bba0246" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-FFD6E8?style=for-the-badge&logo=linkedin&logoColor=D6336C" />
+</a>
+<a href="mailto:itimantasha@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-F3D6FF?style=for-the-badge&logo=gmail&logoColor=6F42C1" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+<i>"The bacteria are evolving. So should our tools." 🧬🌸</i>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A7EB,100:FFD6E8&height=100&section=footer" width="100%"/>
