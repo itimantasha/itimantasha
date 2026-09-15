@@ -1,6 +1,25 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=250&section=header&text=MANTASHA%20RAFIQ&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=B.Tech%20CSE%20%7C%20GenAI%20%26%20Agentic%20AI%20Engineer&descAlignY=58&descSize=18&animation=fadeIn)
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#020408"/>
+      <stop offset="40%" style="stop-color:#7c3aed"/>
+      <stop offset="70%" style="stop-color:#0d9488"/>
+      <stop offset="100%" style="stop-color:#c9a84c"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#7c3aed;stop-opacity:0.6"/>
+      <stop offset="100%" style="stop-color:#0d9488;stop-opacity:0.6"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="250" fill="url(#bg)"/>
+  <path d="M0,200 Q150,150 300,180 Q450,210 600,160 Q750,110 900,150 L900,250 L0,250 Z" fill="url(#wave)" opacity="0.5"/>
+  <path d="M0,220 Q200,180 400,200 Q600,220 900,190 L900,250 L0,250 Z" fill="#020408" opacity="0.4"/>
+  <text x="450" y="110" font-family="Georgia,serif" font-size="52" font-weight="bold" fill="white" text-anchor="middle" letter-spacing="4">MANTASHA RAFIQ</text>
+  <text x="450" y="155" font-family="Georgia,serif" font-size="18" fill="#c9a84c" text-anchor="middle" letter-spacing="2">B.Tech CSE  |  GenAI &amp; Agentic AI Engineer</text>
+  <text x="450" y="190" font-family="monospace" font-size="13" fill="#a855f7" text-anchor="middle" opacity="0.9">🧬 DNA · 🤖 Agents · ⚡ RAG · 🚀 LangChain</text>
+</svg>
 
 <br>
 
@@ -120,9 +139,17 @@ mantasha = {
 <br>
 
 <div align="center">
-
-*"Don't just use AI tools. Wire them into systems that think, plan, and execute."*
-
+<i>"Don't just use AI tools. Wire them into systems that think, plan, and execute."</i>
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer)
+<br>
+
+<div align="center">
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+         Built with obsession · Man-Ra · 2025
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+</div>
