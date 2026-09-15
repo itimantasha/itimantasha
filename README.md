@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020408,30:7c3aed,70:0d9488,100:c9a84c&height=250&section=header&text=MANTASHA%20RAFIQ&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=B.Tech%20CSE%20%7C%20GenAI%20%26%20Agentic%20AI%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=250&section=header&text=MANTASHA%20RAFIQ&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=B.Tech%20CSE%20%7C%20GenAI%20%26%20Agentic%20AI%20Engineer&descAlignY=58&descSize=18&animation=fadeIn)
 
 <br>
 
@@ -13,8 +13,6 @@
 </div>
 
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:0d9488&height=3&section=header" width="100%"/>
 
 ### 🌌 About Me
 
@@ -37,8 +35,6 @@ mantasha = {
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d9488,100:c9a84c&height=3&section=header" width="100%"/>
-
 ### 🚀 Featured Projects
 
 <div align="center">
@@ -52,8 +48,6 @@ mantasha = {
 </div>
 
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c9a84c,100:7c3aed&height=3&section=header" width="100%"/>
 
 ### 🛠️ Tech Stack
 
@@ -84,13 +78,10 @@ mantasha = {
 ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=a855f7)
 ![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=0d9488)
 ![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=c9a84c)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=a855f7)
 
 </div>
 
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:0d9488&height=3&section=header" width="100%"/>
 
 ### 📊 GitHub Stats
 
@@ -108,16 +99,12 @@ mantasha = {
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d9488,100:c9a84c&height=3&section=header" width="100%"/>
-
 ### 🏆 Certifications
 
 - 🧠 **BCG GenAI Job Simulation** — Boston Consulting Group × Forage *(Feb 2026)*
 - 🐍 **Python Programming Fundamentals** — Infosys Springboard *(2025)*
 
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c9a84c,100:7c3aed&height=3&section=header" width="100%"/>
 
 ### 🌐 Connect With Me
 
@@ -138,6 +125,4 @@ mantasha = {
 
 </div>
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c9a84c,50:7c3aed,100:020408&height=120&section=footer" width="100%"/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer)
